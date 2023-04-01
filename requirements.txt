@@ -8,7 +8,7 @@ Babel
 certifi
 charset-normalizer
 config
-crispy-bootstra
+crispy-bootstrap5
 dj-database-url
 Django
 django-ckeditor
@@ -24,9 +24,9 @@ environs
 frozenlist
 gunicorn
 idna
-magic-filter==1.0.9
-marshmallow==3.19.0
-multidict==6.0.4
+magic-filter
+marshmallow
+multidict
 packaging
 Pillow
 psycopg2-binary
