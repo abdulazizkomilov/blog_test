@@ -12,7 +12,7 @@ crispy-bootstrap5
 dj-database-url
 Django
 django-ckeditor
-django-crispy-for
+django-crispy-forms
 django-environ
 django-etc
 django-hitcount
